@@ -1,0 +1,13 @@
+{
+  "name": "vesalukkarila.com",
+  "version": "0.1.0",
+  "description": "Personal website",
+  "scripts": {
+    "dev": "serve"
+  },
+  "keywords": [],
+  "author": "Vesa Lukkarila",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
